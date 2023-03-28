@@ -3,6 +3,10 @@
     background-color: #FFF5C3;
 }
 
+* {
+    margin: 25px;
+}
+
 .header {
     text-align: center;
 }
